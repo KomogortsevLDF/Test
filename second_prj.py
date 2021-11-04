@@ -1,2 +1,7 @@
-print("yes")
-input()
+y = input("Введите символ ")
+if (y == 'k'):
+    print("yes")
+    input()
+else:
+    print("No")
+    input()
