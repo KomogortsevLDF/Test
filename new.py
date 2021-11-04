@@ -5,3 +5,4 @@ if (x > 10):
 else:
     print(123)
     input()
+print("... buddy.")
