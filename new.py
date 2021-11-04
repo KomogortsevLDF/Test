@@ -6,3 +6,5 @@ else:
     print(123)
     input()
 print("... buddy.")
+print("Welcome to the club ...")
+input()
