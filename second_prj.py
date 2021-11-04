@@ -5,3 +5,5 @@ if (y == 'k'):
 else:
     print("No")
     input()
+    else
+    print("Incorrect value")
